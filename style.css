@@ -36,6 +36,7 @@
     width: 80%;
 }
 h1 {
+  text-align: center;
     text-decoration: underline;
     color: maroon;
     font-style: italic;
