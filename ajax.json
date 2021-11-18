@@ -11,55 +11,55 @@
   
       {
         "Serialno": "2",
-        "Name": "Tea Powder",
+        "Name": "Tea",
         "Quantity": "2",
         "Unit": "Kilograms",
-        "Department": "Kannan Devan Tea",
+        "Department": "Red label",
         "Notes": "Packets"
       },
   
       {
         "Serialno": "3",
         "Name": "Rice",
-        "Quantity": "4",
+        "Quantity": "5",
         "Unit": "Kilogram",
-        "Department": "Basmathy",
-        "Notes": "Packets"
+        "Department": "Mtta",
+        "Notes": "Doublehorse"
       },
   
       {
         "Serialno": "4",
         "Name": "Chicken",
         "Quantity": "2",
-        "Unit": "Kilograms",
+        "Unit": "Kilogram",
         "Department": "Meat",
         "Notes": "Fresh Meat"
       },
   
       {
         "Serialno": "5",
-        "Name": "Lemon",
+        "Name": "onion",
         "Quantity": "5",
-        "Unit": "Pieces",
+        "Unit": "Kilogram",
         "Department": "Vegetable",
-        "Notes": "Fresh Lemons"
+        "Notes": "Fresh onion"
       },
   
       {
         "Serialno": "6",
-        "Name": "Tooth Paste",
-        "Quantity": "2",
-        "Unit": "Packets",
-        "Department": "Colgate",
-        "Notes": "Combo "
+        "Name": "carrot",
+        "Quantity": "1",
+        "Unit": "Kilogram",
+        "Department": "Vegetable",
+        "Notes": "Fresh "
       },
   
       {
         "Serialno": "7",
-        "Name": "Apple",
+        "Name": "Potato",
         "Quantity": "3",
         "Unit": "Kilograms",
-        "Department": "Fruits",
+        "Department": "Vegetable",
         "Notes": "Fresh"
       },
   
@@ -83,10 +83,10 @@
   
       {
         "Serialno": "10",
-        "Name": "AAtta",
+        "Name": "salt",
         "Quantity": "1",
         "Unit": "Kilogram",
-        "Department": "Ashirvad",
+        "Department": "Ashirvaad",
         "Notes": "packets"
       }
     ]
