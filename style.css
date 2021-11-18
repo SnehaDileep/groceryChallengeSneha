@@ -39,7 +39,8 @@ h1 {
   text-align: center;
     text-decoration: underline;
     color: maroon;
-    font-style: italic;
+    font-style: bold;
+    font-weight: 500;
   }
 table,
 td {
